@@ -11,3 +11,4 @@
 
 - 2020.03 ~ 2023.12 IVIS Lab Member
 - 2023.07 ~ 2023.08 HMG Softeer bootcamp 2nd
+- 2024.04 ~ 2024.11 Programmers Web FullCycle Dev Course 3rd
